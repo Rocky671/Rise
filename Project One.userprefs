@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\healthPickUp.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterController.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\Health.cs" Line="39" Column="37" />
+      <File FileName="Assets\Scripts\Shooter.cs" Line="28" Column="42" />
+      <File FileName="Assets\Scripts\PickUpClass.cs" Line="30" Column="26" />
+      <File FileName="Assets\Scripts\healthPickUp.cs" Line="8" Column="17" />
+      <File FileName="Assets\Scripts\weapons.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
